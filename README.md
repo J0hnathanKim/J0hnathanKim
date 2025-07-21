@@ -1,7 +1,7 @@
-## Hi there 👋
+## Welcome to Johnathan's laboratory!
 
 <!--
-**J0hnathanKim/J0hnathanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**J0hnnyKim/J0hnnyKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Johnathan Kim, computer engineering student and currently based on Seoul, South Korea.  
+  
+Feel free to contact me anytime.
