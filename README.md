@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Johnathan Kim, computer engineering student and currently based on Seoul, South Korea.  
+
+I love sharing my works and solutions of coding interview problems such as leetcode, baekjoon online judge.  
   
 Feel free to contact me anytime.
