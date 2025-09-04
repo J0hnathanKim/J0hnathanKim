@@ -19,4 +19,5 @@ I'm Johnathan Kim, computer engineering student and currently based on Seoul, So
 I love sharing my works and solutions of coding interview problems such as leetcode, baekjoon online judge.  
   
 Feel free to contact me anytime.
+
 Contact: johnnykim0502@gmail.com
